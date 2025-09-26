@@ -7,7 +7,7 @@ To design, simulate and analyse a stepup chopper or Boost converter using MATLAB
 	1.	Open MATLAB and click on the icon for SIMULINK as shown below
  <img width="522" height="376" alt="image" src="https://github.com/user-attachments/assets/f9fe23e6-5f4c-431b-a490-15d58a4e068d" />
 
-Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Library  browser. 
+Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Library  browser.
 
 2.	Click on NEW MODEL or go to FILE ⇒ NEW ⇒ MODEL and a new blank model is created as shown below
  <img width="572" height="382" alt="image" src="https://github.com/user-attachments/assets/9e6206f8-7b9a-4713-bf1e-72cd04f3a256" />
